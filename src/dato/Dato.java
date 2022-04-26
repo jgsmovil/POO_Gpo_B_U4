@@ -20,7 +20,7 @@ public class Dato {
         //encapsular
         String  NumCon = info.getNombre()+""+info.getCarrera()+""+info.getSemestre()+"";
         System.out.println("Datos del alumno:"+NumCon);
-                
+         System.out.println("TEC 2");          
     }
     
 }
